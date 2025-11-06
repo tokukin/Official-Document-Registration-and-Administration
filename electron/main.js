@@ -86,7 +86,7 @@ const createWindow = () => {
         createAboutWindow();
       },
     },
-    {
+    /*{
       label: "调试",
       submenu: [
         {
@@ -104,7 +104,7 @@ const createWindow = () => {
           },
         },
       ],
-    },
+    },*/
   ];
 
   // 设置菜单
