@@ -1,5 +1,21 @@
-# Vue 3 + TypeScript + Vite
+# 公文登记处理系统
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+本系统是一个简单的公文登记督办系统，通过电子化文件登记，帮助人员及时处理公文。
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+![alt text](image.png)
+
+## 组织配置可以新增组织
+
+![alt text](image-1.png)
+
+## 人员配置可以新增人员
+
+![alt text](image-2.png)
+
+## 公文管理新增公文
+
+![alt text](image-3.png)
+
+## 待办可掌握待办公文情况
+
+![alt text](image-4.png)
