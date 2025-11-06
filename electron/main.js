@@ -25,7 +25,7 @@ const createWindow = () => {
   // 菜单模板
   const template = [
     {
-      label: "首页·",
+      label: "首页",
       click: () => {
         mainWindow.webContents.send("navigate", "/");
       },
